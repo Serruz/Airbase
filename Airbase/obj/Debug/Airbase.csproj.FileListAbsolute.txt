@@ -1,0 +1,35 @@
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\bin\Debug\Airbase.exe.config
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\bin\Debug\Airbase.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\bin\Debug\Airbase.pdb
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.Form1.resources
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.Properties.Resources.resources
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.csproj.GenerateResource.Cache
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\Airbase\Airbase\obj\Debug\Airbase.pdb
+C:\Users\pasha\Desktop\Airbase\Airbase\bin\Debug\Airbase.exe.config
+C:\Users\pasha\Desktop\Airbase\Airbase\bin\Debug\Airbase.exe
+C:\Users\pasha\Desktop\Airbase\Airbase\bin\Debug\Airbase.pdb
+C:\Users\pasha\Desktop\Airbase\Airbase\obj\Debug\Airbase.Form1.resources
+C:\Users\pasha\Desktop\Airbase\Airbase\obj\Debug\Airbase.Properties.Resources.resources
+C:\Users\pasha\Desktop\Airbase\Airbase\obj\Debug\Airbase.csproj.GenerateResource.Cache
+C:\Users\pasha\Desktop\Airbase\Airbase\obj\Debug\Airbase.exe
+C:\Users\pasha\Desktop\Airbase\Airbase\obj\Debug\Airbase.pdb
+D:\Проги\Airbase\Airbase\bin\Debug\Airbase.exe.config
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.exe
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.pdb
+D:\Проги\Airbase\Airbase\bin\Debug\Airbase.exe
+D:\Проги\Airbase\Airbase\bin\Debug\Airbase.pdb
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.csprojResolveAssemblyReference.cache
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.Form1.resources
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.Properties.Resources.resources
+D:\Проги\Airbase\Airbase\obj\Debug\Airbase.csproj.GenerateResource.Cache
+J:\Проги\Airbase\Airbase\bin\Debug\Airbase.exe.config
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.exe
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.pdb
+J:\Проги\Airbase\Airbase\bin\Debug\Airbase.exe
+J:\Проги\Airbase\Airbase\bin\Debug\Airbase.pdb
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.csprojResolveAssemblyReference.cache
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.Form1.resources
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.Properties.Resources.resources
+J:\Проги\Airbase\Airbase\obj\Debug\Airbase.csproj.GenerateResource.Cache
